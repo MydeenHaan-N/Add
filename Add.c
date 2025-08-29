@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-printf(5+5);
+printf("%d", 10);
 }
